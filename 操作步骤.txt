@@ -1,0 +1,10 @@
+1.新建一个文件夹（文件夹的建立）
+2.鼠标右键进入（git bash here）
+3.进入命令符输入（git init）--初始化
+4.登录用户名和邮箱
+git config --global user.name ""
+git config --global user.email ""
+5.加入到暂存区：git add 文件名称（.txt）
+6.git status 查看暂存区的文件
+7.git remote add origin https://github.com/js1314520/180702.git
+8.git push -u origin master
