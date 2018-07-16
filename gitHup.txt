@@ -1,0 +1,9 @@
+1、创建一个文件夹 在文件夹右击，进入git bash here；
+2、初始化git 
+先输入git init 然后回车
+成功之后输入
+3、命令 1 .   git config --global user.name "你的git名称"   用户名
+命令2.     git config --global user.email "你的git验证邮箱"  邮箱
+4、成功之后在你的C:\Users\Administrator.PC-20180616FSPM  文件夹里会有一个.gitconfig文件；
+5、
+1234566543
